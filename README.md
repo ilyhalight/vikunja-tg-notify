@@ -2,6 +2,8 @@
 
 Небольшой self-hosted сервис, который отправляет напоминания и сводки просроченных задач из Vikunja в Telegram-чат.
 
+![Пример уведомления Vikunja Telegram Notify](images/preview.png)
+
 Поддерживаются только `task.reminder.fired` и `tasks.overdue`.
 
 Пример уведомления:
