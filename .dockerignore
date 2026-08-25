@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+*.exe
+*.log
+coverage.out
+README.md
+AGENTS.md
